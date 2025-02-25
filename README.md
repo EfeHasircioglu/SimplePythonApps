@@ -1,2 +1,2 @@
 # SimplePythonApps
-Yaptığım basit Python uygulamaları
+Yaptığım basit Python uygulamaları. Yaptıkça ekleyeceğim
